@@ -3,7 +3,7 @@
 Algumas curiosidades sobre Javascript e assuntos relacionados.
 
 I) O que é o Javascript ?
-- É uma lingauem de programação compilada e de alto nível. 
+- É uma linguagem de programação compilada e de alto nível, responsável pela manipulação do DOM. 
 
 II) Javascript é parecido com Java? 
 - Não não! de parecido somente o nome, não existe nenhuma relação de dependência entre as duas linguagens. 
