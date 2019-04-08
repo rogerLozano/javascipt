@@ -6,9 +6,9 @@ I) O que é o Javascript ?
 - É uma lingauem de programação compilada e de alto nível. 
 
 II) Javascript é parecido com Java? 
-- Não, de parecido somente o nome. Não existe nenhuma relação de dependência entre as duas. 
+- Não não! de parecido somente o nome, não existe nenhuma relação de dependência entre as duas linguagens. 
 
-III) Javascript é somente para front? 
+III) Javascript é somente para Front-end? 
 - Graças a Deus não mais! Hoje já conseguimos desenvolver aplicações com Javascript no back-end. 
 
 IV) O que é Back-end e Front-end? 
