@@ -1,7 +1,6 @@
 # javascipt
-Tudo relacionado ao estudo javascript 
 
-Documentação relacionada ao estudo de Javascript, linguagem que pretendo me especializar. 
+Algumas curiosidades sobre Javascript e assuntos relacionados.
 
 I) O que é o Javascript ?
 - É uma lingauem de programação compilada e de alto nível. 
