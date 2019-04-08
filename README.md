@@ -34,3 +34,14 @@ IX) O que é o jQuery?
 X) O Bootstrap tem relação com Javascript? 
 - Sim e não. Pois o Bootstrap é um framework onde algumas funcionalidades são escritas em javascript, como por exemplo o carousel, para você startar ele é necessário um comando javascript, e para modificar determinados eventos como o tempo de intervalo entre uma foto e outra. (Carousel é um slide de imagens automático). 
 
+XI) Como programar Javascript no Back-end? 
+- Javascript nativamente é uma linguagem exclusiva para páginas web, mas, como o Node isso mudou! Node é um motor javascript que faz a tradução do seu código JS e compila em linguagem para servidor <3. 
+PS: Node não é uma linguagem de programação, não existe programadores NODE, de maneira rasa e tosca o Node é como se fosse uma IDE. 
+
+XII) Eu preciso usar Javascript para fazer um site? 
+- Não necessáriamente, as vezes as teclogias HTML e CSS já atendem, dependendo do projeto. 
+
+XIII) Existe muito mercado para Javascript? 
+- Sim, mas não é uma exclusividade da linguagem. No geral, o mercado sobre tecnologia está bem aquecido, com bastante vagas em quase todas as linguagens. 
+
+
