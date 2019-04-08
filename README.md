@@ -16,7 +16,7 @@ IV) O que é Back-end e Front-end?
 - Front-end é a casca da aplicação, local onde você vê as cores, as fotos das redes sociais, os campos para colocar o email, é tudo que o usuário/cliente consegue interagir. Back-end é responsável por fazer a aplicação funcionar, se comunicar com o banco de dados, fazer o meio campo entre a base de dados e a aplicação visual(Front-end) e regras de negócio. 
 
 V) Javascript é difícil? 
-- A linguagem não possui uma curva de aprendizado muito grande comparado a outras linguagens, mas, como é uma linguagem extremamente poderosa e versátil, dominar as principais aplicações e funcionalidades da linguagem requer um pouco de tempo estudo. 
+- A linguagem não possui uma curva de aprendizado muito grande comparado a outras linguagens, mas, como é uma linguagem extremamente poderosa e versátil, dominar as principais aplicações e funcionalidades da linguagem requer um pouco de tempo e estudo. 
 
 VI) Quanto tempo eu demoro para printar um "Olá mundo" ? 
 - Aproximadamente 10 segundos! pois não precisa de uma IDE, nem de uma configuração mais pesada para programar, rapidamente você está brincando :D 
