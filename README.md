@@ -3,7 +3,8 @@
 Algumas curiosidades sobre Javascript e assuntos relacionados.
 
 I) O que é o Javascript ?
-- É uma linguagem de programação compilada e de alto nível, responsável pela manipulação do DOM. 
+- É uma linguagem de programação compilada e de alto nível, responsável pela manipulação do DOM, fazer sites/sistemas
+mais dinâmicos e etc. 
 
 II) Javascript é parecido com Java? 
 - Não não! de parecido somente o nome, não existe nenhuma relação de dependência entre as duas linguagens. 
@@ -43,4 +44,6 @@ XII) Eu preciso usar Javascript para fazer um site?
 XIII) Existe muito mercado para Javascript? 
 - Sim, mas não é uma exclusividade da linguagem. No geral, o mercado sobre tecnologia está bem aquecido, com bastante vagas em quase todas as linguagens. 
 
+XIV) O que é DOM? 
+- Ducument Object Model, é toda a estrutura de uma pagina web resumido em objeto. Funciona como uma arvore de elementos, e pelo DOM você dispara eventos e consegue fazer manipulações de conteúdo.  
 
