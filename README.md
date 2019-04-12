@@ -47,3 +47,6 @@ XIII) Existe muito mercado para Javascript?
 XIV) O que é DOM? 
 - Ducument Object Model, é toda a estrutura de uma pagina web resumido em objeto. Funciona como uma arvore de elementos, e pelo DOM você dispara eventos e consegue fazer manipulações de conteúdo.  
 
+XV) Javascript é orientado a Gambiarra? 
+- kkkkk, sim e não, por se tratar de uma linguagem que não é fortemente tipada ela te da muita liberdade, as vezes liberdade demais, prodendo trazer algumas gambiarras em códigos. 
+
