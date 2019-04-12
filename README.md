@@ -1,4 +1,4 @@
-# javascipt
+# javascript
 
 Algumas curiosidades sobre Javascript e assuntos relacionados.
 
