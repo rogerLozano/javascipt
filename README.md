@@ -48,7 +48,7 @@ XIV) O que é DOM?
 - Ducument Object Model, é toda a estrutura de uma pagina web resumido em objeto. Funciona como uma arvore de elementos, e pelo DOM você dispara eventos e consegue fazer manipulações de conteúdo.  
 
 XV) Javascript é orientado a Gambiarra? 
-- kkkkk, sim e não, por se tratar de uma linguagem que não é fortemente tipada ela te da muita liberdade, as vezes liberdade demais, prodendo trazer algumas gambiarras em códigos. 
+- kkkkk, sim e não, por se tratar de uma linguagem que não é fortemente tipada ela te da muita liberdade, as vezes liberdade demais, podento trazer algumas gambiarras em códigos. 
 
 XVI) O que é uma API? 
 - De maneira simples, é um objeto. No caso, entenda como uma requisição que é feita a uma API, ela te retornará alguma coisa, que no caso sera um objeto de dados. (abaixo um exemplo da utilização de uma API de CEP. 
