@@ -51,7 +51,7 @@ XV) Javascript é orientado a Gambiarra?
 - kkkkk, sim e não, por se tratar de uma linguagem que não é fortemente tipada ela te da muita liberdade, as vezes liberdade demais, podento trazer algumas gambiarras em códigos. 
 
 XVI) O que é uma API? 
-- De maneira simples, é um objeto. No caso, entenda como uma requisição que é feita a uma API, ela te retornará alguma coisa, que no caso sera um objeto de dados. (abaixo um exemplo da utilização de uma API de CEP. 
+- É um lugar onde você irá fazer algumas requisiçoões, e esse local vai ter devolver uma coleção de informações. Abaixo temos um exemplo de uma requisição a uma API. 
 
 $(document).ready(function(){
 	  var url = 'https://viacep.com.br/ws/01001000/json/'
