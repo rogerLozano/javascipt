@@ -14,7 +14,7 @@ III) Javascript é somente para Front-end?
 
 IV) O que é Back-end e Front-end? 
 (Fiz um resumo do resumo do resumo, é muito extenso a explicação)
-- Front-end é a casca da aplicação, local onde você vê as cores, as fotos das redes sociais, os campos para colocar o email, é tudo que o usuário/cliente consegue interagir. Back-end é responsável por fazer a aplicação funcionar, se comunicar com o banco de dados, fazer o meio campo entre a base de dados e a aplicação visual(Front-end) e regras de negócio. 
+- Front-end é a casca da aplicação, local onde você vê as cores, as fotos das redes sociais, os campos para colocar o email. É tudo que o usuário/cliente consegue interagir. Back-end é responsável por fazer a aplicação funcionar, se comunicar com o banco de dados, fazer o meio campo entre a base de dados e a aplicação visual(Front-end) e regras de negócio. 
 
 V) Javascript é difícil? 
 - A linguagem não possui uma curva de aprendizado muito grande comparado a outras linguagens, mas, como é uma linguagem extremamente poderosa e versátil, dominar as principais aplicações e funcionalidades da linguagem requer um pouco de tempo e estudo. 
@@ -23,10 +23,10 @@ VI) Quanto tempo eu demoro para printar um "Olá mundo" ?
 - Aproximadamente 10 segundos! pois não precisa de uma IDE, nem de uma configuração mais pesada para programar, rapidamente você está brincando :D 
 
 VII) Javascript suporta Orientação a Objeto ? 
-- Sim! A linguagem por si só trás suporte para a OO, no começo a linguagem tinha algumas dificuldades para trabalhar corretamente com os conceitos de OO, mas com os avanços do ECMASCRIPT está bem mais legível e tranquilo trabalhar nesse contexto.
+- Sim! A linguagem por si só trás suporte para a OO; no começo a linguagem tinha algumas dificuldades para trabalhar corretamente com os conceitos de OO, mas com os avanços do ECMASCRIPT está bem mais legível e tranquilo trabalhar nesse contexto.
 
 VIII) O que é ECMASCRIPT? 
-- É a linguagem "base" do Javascript, onde de tempos em tempos eles fazem convenções e padroniações para corrigir problemas antigos da linguagem Javascript, como por exemplo um melhor suporte para Orientação a Objetos. 
+- É a linguagem base do Javascript, onde de tempos em tempos eles fazem convenções e padroniações para corrigir problemas antigos da linguagem Javascript, como por exemplo um melhor suporte para Orientação a Objetos. 
 
 IX) O que é o jQuery? 
 - Jquery é uma biblioteca javascript. Ela é utilizada para você escrever menos código, fazer de maneira mais simples algumas atividades, assim, deixando seu código menos verboso e mais legível. 
@@ -51,7 +51,7 @@ XV) Javascript é orientado a Gambiarra?
 - kkkkk, sim e não, por se tratar de uma linguagem que não é fortemente tipada ela te da muita liberdade, as vezes liberdade demais, podento trazer algumas gambiarras em códigos. 
 
 XVI) O que é uma API? 
-- É um lugar onde você irá fazer algumas requisiçoões, e esse local vai ter devolver uma coleção de informações. Abaixo temos um exemplo de uma requisição a uma API. 
+- É um lugar onde você irá fazer algumas requisiçoões,e,  esse local vai ter devolver uma coleção de informações. Abaixo temos um exemplo de uma requisição a uma API. 
 
 $(document).ready(function(){
 	  var url = 'https://viacep.com.br/ws/01001000/json/'
